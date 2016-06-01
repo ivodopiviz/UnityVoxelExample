@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Reload.cs">
+    <Files>
+      <File FileName="Assets\scripts\Reload.cs" Line="24" Column="19" />
+      <File FileName="Assets\scripts\OrbitCamera.cs" Line="23" Column="1" />
+      <File FileName="Assets\scripts\TerrainController.cs" Line="23" Column="1" />
+      <File FileName="Assets\scripts\Chunk.cs" Line="23" Column="1" />
+      <File FileName="Assets\scripts\PerlinNoise.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
